@@ -14,4 +14,6 @@ publishedAt: '2022-03-17T05:35:07.322Z'
 
 # I'm Yash Sahu, nice to meet you.
 
-I am a surfer + musician + software developer + designer + online marketer and whatever else I can cram into this existence.
+Hiasdlfkjasdflkj asdfasdf
+asdfads
+asdfadsf
